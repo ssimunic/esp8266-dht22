@@ -9,6 +9,6 @@ This script was originally made for [Temp Monitor](https://github.com/ssimunic/T
 
 ## Preview
 
-![](preview1.jpg)
+<img src="preview1.jpg" width="400">
 
-![](preview2.jpg)
+<img src="preview2.jpg" width="400">
